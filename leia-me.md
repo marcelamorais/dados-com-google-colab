@@ -11,5 +11,5 @@ Link: https://colab.research.google.com/
 • GitHub.
 
 🚀 Como visualizar os dados do projeto:
-Os notebooks podem ser visualizados diretamente no GitHub ou abertos no Google Colab para execução.
+Os notebooks podem ser visualizados diretamente no GitHub ou abertos no Google Colab para execução e visualização dos dados.
 
